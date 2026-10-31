@@ -74,20 +74,22 @@ const saya = {
 
 <div align="center">
 
-<a href="https://github.com/Ryuushu">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryuushu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats" />
-</a>
-<a href="https://github.com/Ryuushu">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuushu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Ryuushu&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuushu&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph" width="100%" />
+<a href="https://github.com/Ryuushu?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-28-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+<a href="https://github.com/Ryuushu?tab=stars"><img src="https://img.shields.io/badge/Starred-31-ffb400?style=for-the-badge&logo=github&logoColor=white" alt="Starred" /></a>
+<a href="https://github.com/Ryuushu?tab=achievements"><img src="https://img.shields.io/badge/Pull%20Shark-x3-6e7681?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" /></a>
+<a href="https://github.com/Ryuushu?tab=achievements"><img src="https://img.shields.io/badge/Quickdraw-%E2%9A%A1-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
 </div>
 
@@ -108,23 +110,6 @@ const saya = {
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/Ryuushu/Absensi-RFID">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=Absensi-RFID&theme=tokyonight&hide_border=true&border_radius=12" alt="Absensi-RFID" />
-</a>
-<a href="https://github.com/Ryuushu/yorukami-bot-js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=yorukami-bot-js&theme=tokyonight&hide_border=true&border_radius=12" alt="yorukami-bot-js" />
-</a>
-<a href="https://github.com/Ryuushu/testflut">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=testflut&theme=tokyonight&hide_border=true&border_radius=12" alt="testflut" />
-</a>
-<a href="https://github.com/Ryuushu/cvweb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=cvweb&theme=tokyonight&hide_border=true&border_radius=12" alt="cvweb" />
-</a>
-
-</div>
-
 ---
 
 ## 🎮 Bagian Interaktif
@@ -133,9 +118,10 @@ const saya = {
 <summary><b>🏅 Klik untuk melihat pencapaian</b></summary>
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryuushu&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
+- 🦈 **Pull Shark ×3** — pull request yang di-merge
+- ⚡ **Quickdraw** — menutup issue/PR dalam waktu singkat
+
+[Lihat semua achievement →](https://github.com/Ryuushu?tab=achievements)
 
 </details>
 
@@ -148,16 +134,6 @@ const saya = {
 - [ ] Menyelesaikan proyek Flutter pertama
 - [ ] Membuat bot JavaScript yang makin canggih
 - [ ] Berkontribusi ke lebih banyak proyek open source
-
-</details>
-
-<details>
-<summary><b>💬 Klik untuk quote developer hari ini</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</div>
 
 </details>
 
