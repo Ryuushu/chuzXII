@@ -1,19 +1,17 @@
-<!-- ============ GANTI "USERNAME" DENGAN USERNAME GITHUB KAMU ============ -->
-
 <!-- ===================== HEADER 3D / ANIMASI ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Halo,%20Saya%20USERNAME&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hai,%20Saya%20Ryuushu&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%8D%80%20NIXIE%20%E2%80%A2%20Beginner%20Programmer%20%E2%80%A2%20Code%20Made%20with%20%F0%9F%A7%A0&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=640&height=60&lines=Selamat+datang+di+profil+saya+%F0%9F%91%8B;Suka+membangun+hal+keren+dengan+kode+%F0%9F%9A%80;Web+%7C+Mobile+%7C+Backend+%7C+AI+%F0%9F%A4%96;Mari+berkolaborasi!+%E2%9C%A8" alt="Typing SVG" />
+<a href="https://github.com/Ryuushu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=680&height=60&lines=Hy!+I'm+a+beginner+programmer+%F0%9F%98%81;My+code+is+made+with+%F0%9F%A7%A0;Belajar+tiap+hari%2C+commit+tiap+hari+%F0%9F%9A%80;Web+%7C+Bot+%7C+Flutter+%7C+IoT+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&logo=github&color=8a2be2" alt="followers" />
-<img src="https://img.shields.io/github/stars/USERNAME?label=Total+Stars&style=for-the-badge&logo=github&color=ffb400" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=Ryuushu&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Ryuushu?label=Followers&style=for-the-badge&logo=github&color=8a2be2" alt="followers" />
+<img src="https://img.shields.io/github/stars/Ryuushu?label=Total+Stars&style=for-the-badge&logo=github&color=ffb400" alt="stars" />
 
 </div>
 
@@ -21,25 +19,27 @@
 
 ## 👨‍💻 Tentang Saya
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="rocket" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="rocket" />
 
 ```js
 const saya = {
-  nama: "Nama Lengkap Kamu",
-  lokasi: "Surabaya, Indonesia 🇮🇩",
-  peran: ["Full-Stack Developer", "Open Source Enthusiast"],
-  sedangDipelajari: ["Cloud Native", "System Design", "AI/ML"],
-  sedangDikerjakan: "Proyek keren yang akan mengubah dunia 🌍",
+  username: "Ryuushu",
+  alias: "🍀 NIXIE",
+  status: "Beginner Programmer 😁",
+  motto: "My code made with 🧠",
+  zonaWaktu: "UTC+07:00 (WIB) 🇮🇩",
+  komunitas: "infinityDev12",
+  sedangDipelajari: ["Web Development", "Flutter", "Bot JavaScript"],
+  achievements: ["🦈 Pull Shark x3", "⚡ Quickdraw"],
   funFact: "Kopi dulu, baru commit ☕",
-  sapaSaya: "Jangan ragu untuk menyapa!",
 };
 ```
 
-- 🔭 Saat ini mengerjakan **[nama proyek]**
-- 🌱 Sedang belajar **teknologi baru**
-- 👯 Terbuka untuk **kolaborasi open source**
-- 💬 Tanyakan saya tentang **JavaScript, Python, dan Web Development**
-- ⚡ Fun fact: *ganti dengan fakta unik tentangmu*
+- 🔭 Sedang membangun proyek **web, bot, dan aplikasi mobile**
+- 🌱 Terus belajar **PHP, JavaScript, dan Flutter (Dart)**
+- 👯 Terbuka untuk **kolaborasi dan belajar bareng**
+- 🏅 Meraih badge **Pull Shark ×3** dan **Quickdraw** di GitHub
+- 🌐 Lihat portofolio saya: [portfolioil.thecapz.com](http://portfolioil.thecapz.com/) · [authorportfolio.nixie.my.id](https://authorportfolio.nixie.my.id/)
 
 <br clear="right"/>
 
@@ -50,13 +50,7 @@ const saya = {
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,django,flask,php,laravel,java,kotlin,flutter&perline=8&theme=dark" alt="languages and frameworks" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,docker,kubernetes,git,github,linux,nginx,aws,gcp,figma,vscode,postman&perline=8&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,flutter,nodejs,mysql,git,github,vscode&perline=11&theme=dark" alt="tech stack" />
 </a>
 
 </div>
@@ -67,7 +61,7 @@ const saya = {
 
 <div align="center">
 
-<!-- Dihasilkan otomatis oleh GitHub Actions (lihat .github/workflows/profile-3d.yml) -->
+<!-- Dihasilkan otomatis oleh GitHub Actions (.github/workflows/profile-3d.yml) -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph" width="100%" />
 
 </div>
@@ -80,20 +74,20 @@ const saya = {
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats" />
+<a href="https://github.com/Ryuushu">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ryuushu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats" />
 </a>
-<a href="https://github.com/USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+<a href="https://github.com/Ryuushu">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuushu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Ryuushu&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuushu&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -103,22 +97,30 @@ const saya = {
 
 <div align="center">
 
-| Proyek | Deskripsi | Teknologi |
-|:------:|:----------|:----------|
-| [**Proyek Satu**](https://github.com/USERNAME/proyek-satu) | Deskripsi singkat proyek pertama | `React` `Node.js` `MongoDB` |
-| [**Proyek Dua**](https://github.com/USERNAME/proyek-dua) | Deskripsi singkat proyek kedua | `Python` `Django` `PostgreSQL` |
-| [**Proyek Tiga**](https://github.com/USERNAME/proyek-tiga) | Deskripsi singkat proyek ketiga | `Flutter` `Firebase` |
+| Proyek | Bahasa |
+|:------:|:-------|
+| [**Absensi-RFID**](https://github.com/Ryuushu/Absensi-RFID) | `CSS` |
+| [**yorukami-bot-js**](https://github.com/Ryuushu/yorukami-bot-js) | `JavaScript` |
+| [**cvweb**](https://github.com/Ryuushu/cvweb) | `HTML` |
+| [**cv_mvc_cus**](https://github.com/Ryuushu/cv_mvc_cus) | `JavaScript` |
+| [**testflut**](https://github.com/Ryuushu/testflut) | `Dart` |
+| [**webfolio**](https://github.com/Ryuushu/webfolio) *(fork dari InfinityDev12)* | `PHP` |
 
 </div>
 
-<!-- Kartu repositori otomatis (klik untuk membuka repo) -->
 <div align="center">
 
-<a href="https://github.com/USERNAME/proyek-satu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proyek-satu&theme=tokyonight&hide_border=true&border_radius=12" alt="Proyek Satu" />
+<a href="https://github.com/Ryuushu/Absensi-RFID">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=Absensi-RFID&theme=tokyonight&hide_border=true&border_radius=12" alt="Absensi-RFID" />
 </a>
-<a href="https://github.com/USERNAME/proyek-dua">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=proyek-dua&theme=tokyonight&hide_border=true&border_radius=12" alt="Proyek Dua" />
+<a href="https://github.com/Ryuushu/yorukami-bot-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=yorukami-bot-js&theme=tokyonight&hide_border=true&border_radius=12" alt="yorukami-bot-js" />
+</a>
+<a href="https://github.com/Ryuushu/testflut">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=testflut&theme=tokyonight&hide_border=true&border_radius=12" alt="testflut" />
+</a>
+<a href="https://github.com/Ryuushu/cvweb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuushu&repo=cvweb&theme=tokyonight&hide_border=true&border_radius=12" alt="cvweb" />
 </a>
 
 </div>
@@ -128,34 +130,24 @@ const saya = {
 ## 🎮 Bagian Interaktif
 
 <details>
-<summary><b>📂 Klik untuk melihat perjalanan karier saya</b></summary>
-<br/>
-
-- **2026** — Mengerjakan proyek besar dan berkontribusi ke open source
-- **2025** — Naik level menjadi developer yang lebih matang
-- **2024** — Mulai serius membangun portofolio
-- **2023** — Memulai perjalanan coding 🌱
-
-</details>
-
-<details>
-<summary><b>🏆 Klik untuk melihat pencapaian</b></summary>
+<summary><b>🏅 Klik untuk melihat pencapaian</b></summary>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryuushu&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
 
 </details>
 
 <details>
-<summary><b>🎯 Klik untuk melihat target saya tahun ini</b></summary>
+<summary><b>🎯 Klik untuk melihat target saya</b></summary>
 <br/>
 
 - [x] Membuat profil GitHub yang menarik
-- [ ] Berkontribusi ke 5 proyek open source
-- [ ] Menyelesaikan 1 proyek besar
-- [ ] Menulis 10 artikel teknis
+- [x] Meraih badge Pull Shark & Quickdraw
+- [ ] Menyelesaikan proyek Flutter pertama
+- [ ] Membuat bot JavaScript yang makin canggih
+- [ ] Berkontribusi ke lebih banyak proyek open source
 
 </details>
 
@@ -175,12 +167,9 @@ const saya = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://USERNAME.dev"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="http://portfolioil.thecapz.com/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://authorportfolio.nixie.my.id/"><img src="https://img.shields.io/badge/Author%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Author Portfolio" /></a>
+<a href="https://github.com/Ryuushu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
